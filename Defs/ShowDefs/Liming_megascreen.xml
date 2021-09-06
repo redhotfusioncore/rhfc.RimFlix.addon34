@@ -4,7 +4,7 @@
 
   <RimFlix.ShowDef>
     <defName>Liming_megascreen</defName>
-    <label>Li Ming</label>
+    <label>Li Ming with Hounds</label>
     <description>An animation of Li Ming mounted by hellish hounds.</description>
     <televisionDefs>
       <li>MegascreenTelevision</li>
