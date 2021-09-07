@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+	<identifier>Rimflix - Addon 34</identifier>
+	<version>1.1</version>
+	<dependencies>
+	</dependencies>
+	<incompatibleWith />
+	<loadAfter>
+	</loadAfter>
+	<suggests>
+	</suggests>
+  <manifestUri>https://github.com/redhotfusioncore/rhfc.RimFlix.addon34/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/redhotfusioncore/rhfc.RimFlix.addon34</downloadUri>
+</Manifest>
