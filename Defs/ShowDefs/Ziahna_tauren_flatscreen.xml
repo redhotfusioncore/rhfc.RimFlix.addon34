@@ -5,7 +5,7 @@
   <RimFlix.ShowDef>
     <defName>Ziahna_tauren_flatscreen</defName>
     <label>Ziahna with a Tauren</label>
-    <description>An animation of a Ziahna mounted anally by a tauren.</description>
+    <description>An animation of Ziahna mounted anally by a tauren.</description>
     <televisionDefs>
       <li>FlatscreenTelevision</li>
     </televisionDefs>

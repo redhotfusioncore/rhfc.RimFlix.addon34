@@ -5,7 +5,7 @@
   <RimFlix.ShowDef>
     <defName>Ziahna_horse_megascreen</defName>
     <label>Ziahna with a Horse</label>
-    <description>An animation of a Ziahna mounted anally by a horse.</description>
+    <description>An animation of Ziahna mounted anally by a horse.</description>
     <televisionDefs>
       <li>MegascreenTelevision</li>
     </televisionDefs>
